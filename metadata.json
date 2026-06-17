@@ -1,0 +1,6 @@
+{
+  "name": "Maskoki Care",
+  "description": "Aplikasi catatan dan pengingat perawatan ikan maskoki offline",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
